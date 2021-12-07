@@ -3,10 +3,7 @@ import avatar from '../assets/avatar.jpeg';
 import { rhythm } from '../utils/typography';
 import config from '../../config';
 
-const {
-  username,
-  githubUrl,
-} = config;
+const { username, githubUrl } = config;
 
 class Bio extends React.Component {
   render() {

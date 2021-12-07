@@ -25,7 +25,11 @@ class Footer extends React.Component {
           </>
         )}
         &bull;{' '}
-        <a href="https://github.com/sl1673495/sync-overreacted" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://github.com/sunshineLixun/sync-overreacted"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           生成你的专属博客
         </a>
       </footer>
