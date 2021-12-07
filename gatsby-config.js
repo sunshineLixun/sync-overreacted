@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'ssh的博客',
-    author: 'ssh',
-    description: 'Personal blog by ssh. I explain with words and code.',
-    siteUrl: 'https://github.com/sl1673495',
+    title: 'sunshinelixun的博客',
+    author: 'sunshinelixun',
+    description:
+      'Personal blog by sunshinelixun. I explain with words and code.',
+    siteUrl: 'https://github.com/sunshineLixun',
     social: {
       twitter: '',
     },
